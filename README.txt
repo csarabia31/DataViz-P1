@@ -1,1 +1,0 @@
-Using processing, create 2 sketches with the given data file, draw a bar chart of the data, a line chart
