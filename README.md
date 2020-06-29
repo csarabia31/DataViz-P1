@@ -1,3 +1,4 @@
+# Charts
 This program creates two sketches with the given data file (a bar chart and a line chart)
 
 This project was done using Processing, so if you want to run:
